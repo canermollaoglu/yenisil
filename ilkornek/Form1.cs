@@ -11,6 +11,7 @@ namespace ilkornek
         {
             MessageBox.Show("deneme");
             MessageBox.Show("yeni bir kod yazýlýyor");
+            string yeniKullanici = "test kullanýcý";
         }
     }
 }
